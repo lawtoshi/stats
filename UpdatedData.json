@@ -1,0 +1,2262 @@
+[
+  {
+    "Identifier": 1,
+    "Name": "6529Seizing",
+    "Floor Price": 0.24,
+    "TDH Rate": 3.94,
+    "Price per TDH": 0.09644670051,
+    "Supply": 1000,
+    "SZN": 1,
+    "PPTDH": 0.06091370558375634
+  },
+  {
+    "Identifier": 2,
+    "Name": "SeizeJPGs",
+    "Floor Price": 0.375,
+    "TDH Rate": 3.94,
+    "Price per TDH": 0.1598984772,
+    "Supply": 1000,
+    "SZN": 1,
+    "PPTDH": 0.0951776649746193
+  },
+  {
+    "Identifier": 3,
+    "Name": "UncleSeize",
+    "Floor Price": 0.202,
+    "TDH Rate": 3.94,
+    "Price per TDH": 0.114213198,
+    "Supply": 1000,
+    "SZN": 1,
+    "PPTDH": 0.05126903553299493
+  },
+  {
+    "Identifier": 4,
+    "Name": "NakamotoFreedom",
+    "Floor Price": 6.42,
+    "TDH Rate": 13.14,
+    "Price per TDH": 0.6674277017,
+    "Supply": 300,
+    "SZN": 1,
+    "PPTDH": 0.4885844748858447
+  },
+  {
+    "Identifier": 5,
+    "Name": "rekt6529",
+    "Floor Price": 0.299,
+    "TDH Rate": 6.93,
+    "Price per TDH": 0.1731601732,
+    "Supply": 569,
+    "SZN": 1,
+    "PPTDH": 0.04314574314574315
+  },
+  {
+    "Identifier": 6,
+    "Name": "DALL-E's Revenge",
+    "Floor Price": 0.99,
+    "TDH Rate": 9.38,
+    "Price per TDH": 0.09275053305,
+    "Supply": 420,
+    "SZN": 1,
+    "PPTDH": 0.10554371002132196
+  },
+  {
+    "Identifier": 7,
+    "Name": "Aeroglyph6529",
+    "Floor Price": 0.072,
+    "TDH Rate": 4.82,
+    "Price per TDH": 0.09128630705,
+    "Supply": 818,
+    "SZN": 1,
+    "PPTDH": 0.014937759336099582
+  },
+  {
+    "Identifier": 8,
+    "Name": "FirstGM",
+    "Floor Price": 0.034,
+    "TDH Rate": 1,
+    "Price per TDH": 0.05,
+    "Supply": 3941,
+    "SZN": 1,
+    "PPTDH": 0.034
+  },
+  {
+    "Identifier": 9,
+    "Name": "The Institutions Are Coming",
+    "Floor Price": 0.685,
+    "TDH Rate": 7.73,
+    "Price per TDH": 0.1151358344,
+    "Supply": 510,
+    "SZN": 1,
+    "PPTDH": 0.08861578266494179
+  },
+  {
+    "Identifier": 10,
+    "Name": "A Meditation on GM",
+    "Floor Price": 0.22,
+    "TDH Rate": 8.4,
+    "Price per TDH": 0.119047619,
+    "Supply": 469,
+    "SZN": 1,
+    "PPTDH": 0.02619047619047619
+  },
+  {
+    "Identifier": 11,
+    "Name": "CyberMetaverse",
+    "Floor Price": 0.299,
+    "TDH Rate": 8.66,
+    "Price per TDH": 0.02309468822,
+    "Supply": 455,
+    "SZN": 1,
+    "PPTDH": 0.034526558891454964
+  },
+  {
+    "Identifier": 12,
+    "Name": "OMSeized",
+    "Floor Price": 0.217,
+    "TDH Rate": 9.88,
+    "Price per TDH": 0.02834008097,
+    "Supply": 399,
+    "SZN": 1,
+    "PPTDH": 0.021963562753036434
+  },
+  {
+    "Identifier": 13,
+    "Name": "BlueGM",
+    "Floor Price": 0.32,
+    "TDH Rate": 9.88,
+    "Price per TDH": 0.04048582996,
+    "Supply": 399,
+    "SZN": 1,
+    "PPTDH": 0.032388663967611336
+  },
+  {
+    "Identifier": 14,
+    "Name": "GMgm",
+    "Floor Price": 0.125,
+    "TDH Rate": 6.93,
+    "Price per TDH": 0.06782106782,
+    "Supply": 569,
+    "SZN": 1,
+    "PPTDH": 0.01803751803751804
+  },
+  {
+    "Identifier": 15,
+    "Name": "GM to DEATH",
+    "Floor Price": 0.16,
+    "TDH Rate": 5.12,
+    "Price per TDH": 0.0234375,
+    "Supply": 770,
+    "SZN": 1,
+    "PPTDH": 0.03125
+  },
+  {
+    "Identifier": 16,
+    "Name": "OMbuidling",
+    "Floor Price": 0.28,
+    "TDH Rate": 6.93,
+    "Price per TDH": 0.0101010101,
+    "Supply": 569,
+    "SZN": 1,
+    "PPTDH": 0.04040404040404041
+  },
+  {
+    "Identifier": 17,
+    "Name": "Awakening OM",
+    "Floor Price": 0.045,
+    "TDH Rate": 5.89,
+    "Price per TDH": 0.01697792869,
+    "Supply": 669,
+    "SZN": 1,
+    "PPTDH": 0.007640067911714771
+  },
+  {
+    "Identifier": 18,
+    "Name": "OM Breakdown of the Bicameral Mind",
+    "Floor Price": 0.049,
+    "TDH Rate": 4.07,
+    "Price per TDH": 0.01474201474,
+    "Supply": 968,
+    "SZN": 1,
+    "PPTDH": 0.01203931203931204
+  },
+  {
+    "Identifier": 19,
+    "Name": "Play the Game",
+    "Floor Price": 0.075,
+    "TDH Rate": 4.07,
+    "Price per TDH": 0.01228501229,
+    "Supply": 968,
+    "SZN": 1,
+    "PPTDH": 0.018427518427518427
+  },
+  {
+    "Identifier": 20,
+    "Name": "Hardware Wallet and Mug",
+    "Floor Price": 0.049,
+    "TDH Rate": 5.89,
+    "Price per TDH": 0.01188455008,
+    "Supply": 669,
+    "SZN": 1,
+    "PPTDH": 0.008319185059422751
+  },
+  {
+    "Identifier": 21,
+    "Name": "Open Roads, Open Metaverse",
+    "Floor Price": 0.45,
+    "TDH Rate": 7.1,
+    "Price per TDH": 0.0338028169,
+    "Supply": 555,
+    "SZN": 1,
+    "PPTDH": 0.06338028169014084
+  },
+  {
+    "Identifier": 22,
+    "Name": "JPEGs Are Infinite",
+    "Floor Price": 0.045,
+    "TDH Rate": 5.66,
+    "Price per TDH": 0.01943462898,
+    "Supply": 696,
+    "SZN": 1,
+    "PPTDH": 0.007950530035335688
+  },
+  {
+    "Identifier": 23,
+    "Name": "Fight for the Open Metaverse",
+    "Floor Price": 0.169,
+    "TDH Rate": 6.93,
+    "Price per TDH": 0.01443001443,
+    "Supply": 569,
+    "SZN": 1,
+    "PPTDH": 0.02438672438672439
+  },
+  {
+    "Identifier": 24,
+    "Name": "NFT Adoption Pathway 2030",
+    "Floor Price": 0.3,
+    "TDH Rate": 9.38,
+    "Price per TDH": 0.0447761194,
+    "Supply": 420,
+    "SZN": 1,
+    "PPTDH": 0.03198294243070362
+  },
+  {
+    "Identifier": 25,
+    "Name": "Authentic Summer",
+    "Floor Price": 0.062,
+    "TDH Rate": 4.07,
+    "Price per TDH": 0.01965601966,
+    "Supply": 968,
+    "SZN": 1,
+    "PPTDH": 0.015233415233415232
+  },
+  {
+    "Identifier": 26,
+    "Name": "100 Trillion Stars, 100 million People",
+    "Floor Price": 0.045,
+    "TDH Rate": 5.12,
+    "Price per TDH": 0.009765625,
+    "Supply": 770,
+    "SZN": 1,
+    "PPTDH": 0.0087890625
+  },
+  {
+    "Identifier": 27,
+    "Name": "Vivienne Tam x 6529",
+    "Floor Price": 0.052,
+    "TDH Rate": 4.44,
+    "Price per TDH": 0.02027027027,
+    "Supply": 888,
+    "SZN": 1,
+    "PPTDH": 0.01171171171171171
+  },
+  {
+    "Identifier": 28,
+    "Name": "!UGH",
+    "Floor Price": 0.299,
+    "TDH Rate": 9.38,
+    "Price per TDH": 0.02025586354,
+    "Supply": 420,
+    "SZN": 1,
+    "PPTDH": 0.031876332622601276
+  },
+  {
+    "Identifier": 29,
+    "Name": "Seize the Bees of Production",
+    "Floor Price": 0.127,
+    "TDH Rate": 8.4,
+    "Price per TDH": 0.0119047619,
+    "Supply": 469,
+    "SZN": 1,
+    "PPTDH": 0.015119047619047619
+  },
+  {
+    "Identifier": 30,
+    "Name": "Human-Intelligence Generated OM",
+    "Floor Price": 0.249,
+    "TDH Rate": 6.93,
+    "Price per TDH": 0.01587301587,
+    "Supply": 569,
+    "SZN": 1,
+    "PPTDH": 0.03593073593073593
+  },
+  {
+    "Identifier": 31,
+    "Name": "WAGMI?",
+    "Floor Price": 0.12,
+    "TDH Rate": 8.4,
+    "Price per TDH": 0.02023809524,
+    "Supply": 469,
+    "SZN": 1,
+    "PPTDH": 0.014285714285714285
+  },
+  {
+    "Identifier": 32,
+    "Name": "You Can't Touch This",
+    "Floor Price": 0.149,
+    "TDH Rate": 9.88,
+    "Price per TDH": 0.04251012146,
+    "Supply": 399,
+    "SZN": 1,
+    "PPTDH": 0.015080971659919026
+  },
+  {
+    "Identifier": 33,
+    "Name": "Feeling Lucky?",
+    "Floor Price": 0.12,
+    "TDH Rate": 9.38,
+    "Price per TDH": 0.02132196162,
+    "Supply": 420,
+    "SZN": 1,
+    "PPTDH": 0.012793176972281448
+  },
+  {
+    "Identifier": 34,
+    "Name": "GM Indonesia",
+    "Floor Price": 0.25,
+    "TDH Rate": 10.68,
+    "Price per TDH": 0.02902621723,
+    "Supply": 369,
+    "SZN": 1,
+    "PPTDH": 0.023408239700374533
+  },
+  {
+    "Identifier": 35,
+    "Name": "Meet Summer Glasses",
+    "Floor Price": 0.49,
+    "TDH Rate": 9.38,
+    "Price per TDH": 0.03624733475,
+    "Supply": 420,
+    "SZN": 1,
+    "PPTDH": 0.05223880597014925
+  },
+  {
+    "Identifier": 36,
+    "Name": "Sphere of Influence",
+    "Floor Price": 0.069,
+    "TDH Rate": 8.4,
+    "Price per TDH": 0.0119047619,
+    "Supply": 469,
+    "SZN": 1,
+    "PPTDH": 0.008214285714285714
+  },
+  {
+    "Identifier": 37,
+    "Name": "Sgt. Pepe",
+    "Floor Price": 6.3,
+    "TDH Rate": 9.38,
+    "Price per TDH": 0.5223880597,
+    "Supply": 420,
+    "SZN": 1,
+    "PPTDH": 0.6716417910447761
+  },
+  {
+    "Identifier": 38,
+    "Name": "Seize the Carpoolers",
+    "Floor Price": 0.05,
+    "TDH Rate": 6.93,
+    "Price per TDH": 0.01298701299,
+    "Supply": 569,
+    "SZN": 1,
+    "PPTDH": 0.007215007215007216
+  },
+  {
+    "Identifier": 39,
+    "Name": "MEowMEow Alley",
+    "Floor Price": 0.041,
+    "TDH Rate": 4.07,
+    "Price per TDH": 0.01228501229,
+    "Supply": 968,
+    "SZN": 1,
+    "PPTDH": 0.010073710073710074
+  },
+  {
+    "Identifier": 40,
+    "Name": "Morning's Eve",
+    "Floor Price": 0.055,
+    "TDH Rate": 5.89,
+    "Price per TDH": 0.01188455008,
+    "Supply": 669,
+    "SZN": 1,
+    "PPTDH": 0.009337860780984721
+  },
+  {
+    "Identifier": 41,
+    "Name": "Cereal GMer",
+    "Floor Price": 0.036,
+    "TDH Rate": 4.82,
+    "Price per TDH": 0.008298755187,
+    "Supply": 818,
+    "SZN": 1,
+    "PPTDH": 0.007468879668049791
+  },
+  {
+    "Identifier": 42,
+    "Name": "FTXPepe",
+    "Floor Price": 0.07,
+    "TDH Rate": 2.63,
+    "Price per TDH": 0.01901140684,
+    "Supply": 1498,
+    "SZN": 1,
+    "PPTDH": 0.02661596958174905
+  },
+  {
+    "Identifier": 43,
+    "Name": "TRASHOR",
+    "Floor Price": 0.03,
+    "TDH Rate": 3.94,
+    "Price per TDH": 0.01015228426,
+    "Supply": 1000,
+    "SZN": 1,
+    "PPTDH": 0.0076142131979695426
+  },
+  {
+    "Identifier": 44,
+    "Name": "Vibe Check",
+    "Floor Price": 0.065,
+    "TDH Rate": 5.12,
+    "Price per TDH": 0.009765625,
+    "Supply": 770,
+    "SZN": 1,
+    "PPTDH": 0.0126953125
+  },
+  {
+    "Identifier": 45,
+    "Name": "Beyond the Horizon",
+    "Floor Price": 0.039,
+    "TDH Rate": 4.82,
+    "Price per TDH": 0.008298755187,
+    "Supply": 818,
+    "SZN": 1,
+    "PPTDH": 0.008091286307053941
+  },
+  {
+    "Identifier": 46,
+    "Name": "gmgn",
+    "Floor Price": 0.085,
+    "TDH Rate": 6.45,
+    "Price per TDH": 0.02170542636,
+    "Supply": 611,
+    "SZN": 1,
+    "PPTDH": 0.01317829457364341
+  },
+  {
+    "Identifier": 47,
+    "Name": "EXIT STRATEGY",
+    "Floor Price": 2.232,
+    "TDH Rate": 9.38,
+    "Price per TDH": 0.1439232409,
+    "Supply": 420,
+    "SZN": 1,
+    "PPTDH": 0.23795309168443496
+  },
+  {
+    "Identifier": 48,
+    "Name": "Freedom to Explore",
+    "Floor Price": 0.048,
+    "TDH Rate": 2.95,
+    "Price per TDH": 0.01355932203,
+    "Supply": 1336,
+    "SZN": 2,
+    "PPTDH": 0.016271186440677966
+  },
+  {
+    "Identifier": 49,
+    "Name": "survive in virtuality",
+    "Floor Price": 0.048,
+    "TDH Rate": 4.07,
+    "Price per TDH": 0.01474201474,
+    "Supply": 968,
+    "SZN": 2,
+    "PPTDH": 0.011793611793611793
+  },
+  {
+    "Identifier": 50,
+    "Name": "Crypto Daydreams",
+    "Floor Price": 0.075,
+    "TDH Rate": 5.66,
+    "Price per TDH": 0.01590106007,
+    "Supply": 696,
+    "SZN": 2,
+    "PPTDH": 0.013250883392226147
+  },
+  {
+    "Identifier": 51,
+    "Name": "Summer is Coming",
+    "Floor Price": 0.039,
+    "TDH Rate": 3.94,
+    "Price per TDH": 0.01776649746,
+    "Supply": 1000,
+    "SZN": 2,
+    "PPTDH": 0.009898477157360407
+  },
+  {
+    "Identifier": 52,
+    "Name": "MEME FACTORY",
+    "Floor Price": 0.088,
+    "TDH Rate": 2.78,
+    "Price per TDH": 0.03956834532,
+    "Supply": 1418,
+    "SZN": 2,
+    "PPTDH": 0.031654676258992806
+  },
+  {
+    "Identifier": 53,
+    "Name": "Fuzzy Nouns",
+    "Floor Price": 0.037,
+    "TDH Rate": 3.55,
+    "Price per TDH": 0.01408450704,
+    "Supply": 1110,
+    "SZN": 2,
+    "PPTDH": 0.010422535211267606
+  },
+  {
+    "Identifier": 54,
+    "Name": "GM to the PM",
+    "Floor Price": 0.026,
+    "TDH Rate": 3.94,
+    "Price per TDH": 0.007614213198,
+    "Supply": 1000,
+    "SZN": 2,
+    "PPTDH": 0.006598984771573604
+  },
+  {
+    "Identifier": 55,
+    "Name": "We The Creators",
+    "Floor Price": 0.034,
+    "TDH Rate": 3.25,
+    "Price per TDH": 0.01846153846,
+    "Supply": 1213,
+    "SZN": 2,
+    "PPTDH": 0.010461538461538463
+  },
+  {
+    "Identifier": 56,
+    "Name": "Hopium Highlands",
+    "Floor Price": 0.026,
+    "TDH Rate": 2.78,
+    "Price per TDH": 0.01438848921,
+    "Supply": 1418,
+    "SZN": 2,
+    "PPTDH": 0.00935251798561151
+  },
+  {
+    "Identifier": 57,
+    "Name": "Copepe",
+    "Floor Price": 0.025,
+    "TDH Rate": 1.96,
+    "Price per TDH": 0.0306122449,
+    "Supply": 2011,
+    "SZN": 2,
+    "PPTDH": 0.012755102040816327
+  },
+  {
+    "Identifier": 58,
+    "Name": "Bear Survival Tactics",
+    "Floor Price": 0.055,
+    "TDH Rate": 3.94,
+    "Price per TDH": 0.02284263959,
+    "Supply": 1000,
+    "SZN": 2,
+    "PPTDH": 0.013959390862944163
+  },
+  {
+    "Identifier": 59,
+    "Name": "Greedy Morning",
+    "Floor Price": 0.027,
+    "TDH Rate": 2.78,
+    "Price per TDH": 0.01438848921,
+    "Supply": 1418,
+    "SZN": 2,
+    "PPTDH": 0.00971223021582734
+  },
+  {
+    "Identifier": 60,
+    "Name": "21ST CENTURY HEIST",
+    "Floor Price": 0.054,
+    "TDH Rate": 3.55,
+    "Price per TDH": 0.01126760563,
+    "Supply": 1110,
+    "SZN": 2,
+    "PPTDH": 0.015211267605633804
+  },
+  {
+    "Identifier": 61,
+    "Name": "survive at all cost",
+    "Floor Price": 0.051,
+    "TDH Rate": 4.44,
+    "Price per TDH": 0.01801801802,
+    "Supply": 888,
+    "SZN": 2,
+    "PPTDH": 0.011486486486486485
+  },
+  {
+    "Identifier": 62,
+    "Name": "#6529 GMonster",
+    "Floor Price": 0.029,
+    "TDH Rate": 3.94,
+    "Price per TDH": 0.01015228426,
+    "Supply": 1000,
+    "SZN": 2,
+    "PPTDH": 0.007360406091370559
+  },
+  {
+    "Identifier": 63,
+    "Name": "The Encounter",
+    "Floor Price": 0.037,
+    "TDH Rate": 4.38,
+    "Price per TDH": 0.01141552511,
+    "Supply": 900,
+    "SZN": 2,
+    "PPTDH": 0.008447488584474886
+  },
+  {
+    "Identifier": 64,
+    "Name": "Protect Your Empire",
+    "Floor Price": 0.054,
+    "TDH Rate": 4.54,
+    "Price per TDH": 0.006607929515,
+    "Supply": 868,
+    "SZN": 2,
+    "PPTDH": 0.011894273127753303
+  },
+  {
+    "Identifier": 65,
+    "Name": "CHAINED IN THE SYSTEM//",
+    "Floor Price": 0.027,
+    "TDH Rate": 2.9,
+    "Price per TDH": 0.01379310345,
+    "Supply": 1359,
+    "SZN": 2,
+    "PPTDH": 0.009310344827586208
+  },
+  {
+    "Identifier": 66,
+    "Name": "DarkGM",
+    "Floor Price": 0.03,
+    "TDH Rate": 4.07,
+    "Price per TDH": 0.009828009828,
+    "Supply": 968,
+    "SZN": 2,
+    "PPTDH": 0.00737100737100737
+  },
+  {
+    "Identifier": 67,
+    "Name": "Come and Take It!",
+    "Floor Price": 0.056,
+    "TDH Rate": 2.78,
+    "Price per TDH": 0.02158273381,
+    "Supply": 1418,
+    "SZN": 2,
+    "PPTDH": 0.020143884892086333
+  },
+  {
+    "Identifier": 68,
+    "Name": "REALITY CHECK",
+    "Floor Price": 0.034,
+    "TDH Rate": 4.07,
+    "Price per TDH": 0.009828009828,
+    "Supply": 968,
+    "SZN": 2,
+    "PPTDH": 0.008353808353808353
+  },
+  {
+    "Identifier": 69,
+    "Name": "Prof C. Richard Butt",
+    "Floor Price": 0.114,
+    "TDH Rate": 5.71,
+    "Price per TDH": 0.01751313485,
+    "Supply": 690,
+    "SZN": 2,
+    "PPTDH": 0.019964973730297726
+  },
+  {
+    "Identifier": 70,
+    "Name": "Shred the Memes of Production",
+    "Floor Price": 0.044,
+    "TDH Rate": 5.07,
+    "Price per TDH": 0.007889546351,
+    "Supply": 777,
+    "SZN": 2,
+    "PPTDH": 0.008678500986193292
+  },
+  {
+    "Identifier": 71,
+    "Name": "GM or Die",
+    "Floor Price": 0.079,
+    "TDH Rate": 6.69,
+    "Price per TDH": 0.01195814649,
+    "Supply": 589,
+    "SZN": 2,
+    "PPTDH": 0.011808669656203289
+  },
+  {
+    "Identifier": 72,
+    "Name": "Faces of Freedom",
+    "Floor Price": 0.04,
+    "TDH Rate": 4.44,
+    "Price per TDH": 0.009009009009,
+    "Supply": 888,
+    "SZN": 2,
+    "PPTDH": 0.009009009009009009
+  },
+  {
+    "Identifier": 73,
+    "Name": "Evolution",
+    "Floor Price": 0.035,
+    "TDH Rate": 3.94,
+    "Price per TDH": 0.007614213198,
+    "Supply": 1000,
+    "SZN": 2,
+    "PPTDH": 0.008883248730964468
+  },
+  {
+    "Identifier": 74,
+    "Name": "The Hamily WAGMI",
+    "Floor Price": 0.037,
+    "TDH Rate": 5.71,
+    "Price per TDH": 0.00700525394,
+    "Supply": 690,
+    "SZN": 2,
+    "PPTDH": 0.00647985989492119
+  },
+  {
+    "Identifier": 75,
+    "Name": "No Meme, No Life",
+    "Floor Price": 0.042,
+    "TDH Rate": 6.58,
+    "Price per TDH": 0.01367781155,
+    "Supply": 599,
+    "SZN": 2,
+    "PPTDH": 0.006382978723404256
+  },
+  {
+    "Identifier": 76,
+    "Name": "Staying Alive",
+    "Floor Price": 0.047,
+    "TDH Rate": 6.93,
+    "Price per TDH": 0.008658008658,
+    "Supply": 569,
+    "SZN": 2,
+    "PPTDH": 0.0067821067821067825
+  },
+  {
+    "Identifier": 77,
+    "Name": "FreedOM Fighter",
+    "Floor Price": 0.054,
+    "TDH Rate": 7.88,
+    "Price per TDH": 0.0114213198,
+    "Supply": 500,
+    "SZN": 2,
+    "PPTDH": 0.006852791878172589
+  },
+  {
+    "Identifier": 78,
+    "Name": "Metaverse Starter Pack",
+    "Floor Price": 0.04,
+    "TDH Rate": 6.93,
+    "Price per TDH": 0.007215007215,
+    "Supply": 569,
+    "SZN": 2,
+    "PPTDH": 0.005772005772005772
+  },
+  {
+    "Identifier": 79,
+    "Name": "Red Pilled",
+    "Floor Price": 0.034,
+    "TDH Rate": 5.64,
+    "Price per TDH": 0.01063829787,
+    "Supply": 699,
+    "SZN": 2,
+    "PPTDH": 0.006028368794326242
+  },
+  {
+    "Identifier": 80,
+    "Name": "Moon Mission",
+    "Floor Price": 0.05,
+    "TDH Rate": 7.9,
+    "Price per TDH": 0.01012658228,
+    "Supply": 499,
+    "SZN": 2,
+    "PPTDH": 0.006329113924050633
+  },
+  {
+    "Identifier": 81,
+    "Name": "CA-SAKURA",
+    "Floor Price": 0.047,
+    "TDH Rate": 8.4,
+    "Price per TDH": 0.008333333333,
+    "Supply": 469,
+    "SZN": 2,
+    "PPTDH": 0.005595238095238095
+  },
+  {
+    "Identifier": 82,
+    "Name": "Gifland Parade",
+    "Floor Price": 0.074,
+    "TDH Rate": 8.4,
+    "Price per TDH": 0.007142857143,
+    "Supply": 469,
+    "SZN": 2,
+    "PPTDH": 0.008809523809523809
+  },
+  {
+    "Identifier": 83,
+    "Name": "Alice in Memeland",
+    "Floor Price": 0.042,
+    "TDH Rate": 6.04,
+    "Price per TDH": 0.008278145695,
+    "Supply": 652,
+    "SZN": 2,
+    "PPTDH": 0.006953642384105961
+  },
+  {
+    "Identifier": 84,
+    "Name": "Voices",
+    "Floor Price": 0.1,
+    "TDH Rate": 7.1,
+    "Price per TDH": 0.01126760563,
+    "Supply": 555,
+    "SZN": 2,
+    "PPTDH": 0.014084507042253523
+  },
+  {
+    "Identifier": 85,
+    "Name": "Digital Rights Are Human Rights",
+    "Floor Price": 0.031,
+    "TDH Rate": 3.94,
+    "Price per TDH": 0.01776649746,
+    "Supply": 1000,
+    "SZN": 2,
+    "PPTDH": 0.007868020304568528
+  },
+  {
+    "Identifier": 86,
+    "Name": "Possession Game",
+    "Floor Price": 0.14,
+    "TDH Rate": 9.38,
+    "Price per TDH": 0.02132196162,
+    "Supply": 420,
+    "SZN": 2,
+    "PPTDH": 0.014925373134328358
+  },
+  {
+    "Identifier": 87,
+    "Name": "GM Everyone",
+    "Floor Price": 0.15,
+    "TDH Rate": 5.07,
+    "Price per TDH": 0.03550295858,
+    "Supply": 777,
+    "SZN": 3,
+    "PPTDH": 0.029585798816568046
+  },
+  {
+    "Identifier": 88,
+    "Name": "Forge the Memes",
+    "Floor Price": 0.035,
+    "TDH Rate": 5.71,
+    "Price per TDH": 0.005253940455,
+    "Supply": 690,
+    "SZN": 3,
+    "PPTDH": 0.006129597197898425
+  },
+  {
+    "Identifier": 89,
+    "Name": "Embracing Change",
+    "Floor Price": 0.041,
+    "TDH Rate": 5.89,
+    "Price per TDH": 0.006791171477,
+    "Supply": 669,
+    "SZN": 3,
+    "PPTDH": 0.0069609507640067915
+  },
+  {
+    "Identifier": 90,
+    "Name": "Survival Mode",
+    "Floor Price": 0.035,
+    "TDH Rate": 6.93,
+    "Price per TDH": 0.005772005772,
+    "Supply": 569,
+    "SZN": 3,
+    "PPTDH": 0.005050505050505051
+  },
+  {
+    "Identifier": 91,
+    "Name": "Seize The Memes of Black & White",
+    "Floor Price": 0.047,
+    "TDH Rate": 5.89,
+    "Price per TDH": 0.006791171477,
+    "Supply": 669,
+    "SZN": 3,
+    "PPTDH": 0.00797962648556876
+  },
+  {
+    "Identifier": 92,
+    "Name": "Gm from a Roof",
+    "Floor Price": 0.065,
+    "TDH Rate": 7.9,
+    "Price per TDH": 0.008860759494,
+    "Supply": 499,
+    "SZN": 3,
+    "PPTDH": 0.008227848101265823
+  },
+  {
+    "Identifier": 93,
+    "Name": "Seized by Seduction",
+    "Floor Price": 0.034,
+    "TDH Rate": 5.12,
+    "Price per TDH": 0.009765625,
+    "Supply": 770,
+    "SZN": 3,
+    "PPTDH": 0.006640625000000001
+  },
+  {
+    "Identifier": 94,
+    "Name": "The Beacon",
+    "Floor Price": 0.068,
+    "TDH Rate": 10.68,
+    "Price per TDH": 0.006554307116,
+    "Supply": 369,
+    "SZN": 3,
+    "PPTDH": 0.006367041198501873
+  },
+  {
+    "Identifier": 95,
+    "Name": "Survival Mode",
+    "Floor Price": 0.075,
+    "TDH Rate": 7.76,
+    "Price per TDH": 0.006443298969,
+    "Supply": 508,
+    "SZN": 3,
+    "PPTDH": 0.009664948453608248
+  },
+  {
+    "Identifier": 96,
+    "Name": "While You Sleep",
+    "Floor Price": 0.052,
+    "TDH Rate": 9.38,
+    "Price per TDH": 0.006396588486,
+    "Supply": 420,
+    "SZN": 3,
+    "PPTDH": 0.005543710021321961
+  },
+  {
+    "Identifier": 97,
+    "Name": "Meme Colony",
+    "Floor Price": 0.05,
+    "TDH Rate": 9.88,
+    "Price per TDH": 0.005060728745,
+    "Supply": 399,
+    "SZN": 3,
+    "PPTDH": 0.005060728744939271
+  },
+  {
+    "Identifier": 98,
+    "Name": "The Inception",
+    "Floor Price": 0.09,
+    "TDH Rate": 9.38,
+    "Price per TDH": 0.009594882729,
+    "Supply": 420,
+    "SZN": 3,
+    "PPTDH": 0.009594882729211086
+  },
+  {
+    "Identifier": 99,
+    "Name": "Too Big to Sail",
+    "Floor Price": 0.073,
+    "TDH Rate": 7.9,
+    "Price per TDH": 0.01392405063,
+    "Supply": 499,
+    "SZN": 3,
+    "PPTDH": 0.009240506329113923
+  },
+  {
+    "Identifier": 100,
+    "Name": "Survival of the Memeist",
+    "Floor Price": 0.115,
+    "TDH Rate": 8.4,
+    "Price per TDH": 0.01547619048,
+    "Supply": 469,
+    "SZN": 3,
+    "PPTDH": 0.01369047619047619
+  },
+  {
+    "Identifier": 101,
+    "Name": "WAGMI: Legacy",
+    "Floor Price": 0.054,
+    "TDH Rate": 7.71,
+    "Price per TDH": 0.009079118029,
+    "Supply": 511,
+    "SZN": 3,
+    "PPTDH": 0.007003891050583658
+  },
+  {
+    "Identifier": 102,
+    "Name": "Sxrvive",
+    "Floor Price": 0.045,
+    "TDH Rate": 8.4,
+    "Price per TDH": 0.007142857143,
+    "Supply": 469,
+    "SZN": 3,
+    "PPTDH": 0.005357142857142856
+  },
+  {
+    "Identifier": 103,
+    "Name": "Don't Trust, Check",
+    "Floor Price": 0.445,
+    "TDH Rate": 10.95,
+    "Price per TDH": 0.03835616438,
+    "Supply": 360,
+    "SZN": 3,
+    "PPTDH": 0.040639269406392696
+  },
+  {
+    "Identifier": 104,
+    "Name": "The WAGMI Brigade",
+    "Floor Price": 0.065,
+    "TDH Rate": 7.88,
+    "Price per TDH": 0.008883248731,
+    "Supply": 500,
+    "SZN": 3,
+    "PPTDH": 0.008248730964467006
+  },
+  {
+    "Identifier": 105,
+    "Name": "The Lesson",
+    "Floor Price": 0.046,
+    "TDH Rate": 7.9,
+    "Price per TDH": 0.008860759494,
+    "Supply": 499,
+    "SZN": 3,
+    "PPTDH": 0.005822784810126582
+  },
+  {
+    "Identifier": 106,
+    "Name": "One Mieme",
+    "Floor Price": 0.059,
+    "TDH Rate": 7.88,
+    "Price per TDH": 0.007614213198,
+    "Supply": 500,
+    "SZN": 3,
+    "PPTDH": 0.00748730964467005
+  },
+  {
+    "Identifier": 107,
+    "Name": "SURVIVE | NEVER FOMO",
+    "Floor Price": 0.047,
+    "TDH Rate": 9.38,
+    "Price per TDH": 0.01599147122,
+    "Supply": 420,
+    "SZN": 3,
+    "PPTDH": 0.005010660980810234
+  },
+  {
+    "Identifier": 108,
+    "Name": "The Portal",
+    "Floor Price": 0.054,
+    "TDH Rate": 7.95,
+    "Price per TDH": 0.007547169811,
+    "Supply": 496,
+    "SZN": 3,
+    "PPTDH": 0.006792452830188679
+  },
+  {
+    "Identifier": 109,
+    "Name": "Meme Kong",
+    "Floor Price": 0.224,
+    "TDH Rate": 10.8,
+    "Price per TDH": 0.02407407407,
+    "Supply": 365,
+    "SZN": 3,
+    "PPTDH": 0.02074074074074074
+  },
+  {
+    "Identifier": 110,
+    "Name": "God Save the Key",
+    "Floor Price": 0.05,
+    "TDH Rate": 8.4,
+    "Price per TDH": 0.007142857143,
+    "Supply": 469,
+    "SZN": 3,
+    "PPTDH": 0.005952380952380952
+  },
+  {
+    "Identifier": 111,
+    "Name": "Lost & Never Found",
+    "Floor Price": 0.058,
+    "TDH Rate": 9.38,
+    "Price per TDH": 0.005330490405,
+    "Supply": 420,
+    "SZN": 3,
+    "PPTDH": 0.006183368869936034
+  },
+  {
+    "Identifier": 112,
+    "Name": "Morning Echoes",
+    "Floor Price": 0.054,
+    "TDH Rate": 8.88,
+    "Price per TDH": 0.007882882883,
+    "Supply": 444,
+    "SZN": 3,
+    "PPTDH": 0.0060810810810810806
+  },
+  {
+    "Identifier": 113,
+    "Name": "Time to BUIDL",
+    "Floor Price": 0.1,
+    "TDH Rate": 11.26,
+    "Price per TDH": 0.01065719361,
+    "Supply": 350,
+    "SZN": 3,
+    "PPTDH": 0.008880994671403198
+  },
+  {
+    "Identifier": 114,
+    "Name": "Transcendent Trades",
+    "Floor Price": 0.049,
+    "TDH Rate": 8.76,
+    "Price per TDH": 0.009132420091,
+    "Supply": 450,
+    "SZN": 3,
+    "PPTDH": 0.005593607305936074
+  },
+  {
+    "Identifier": 115,
+    "Name": "Vital Energy",
+    "Floor Price": 0.048,
+    "TDH Rate": 11.26,
+    "Price per TDH": 0.007992895204,
+    "Supply": 350,
+    "SZN": 3,
+    "PPTDH": 0.004262877442273535
+  },
+  {
+    "Identifier": 116,
+    "Name": "The Goddess of ETH",
+    "Floor Price": 0.059,
+    "TDH Rate": 9.85,
+    "Price per TDH": 0.008121827411,
+    "Supply": 400,
+    "SZN": 3,
+    "PPTDH": 0.00598984771573604
+  },
+  {
+    "Identifier": 117,
+    "Name": "Pepe House",
+    "Floor Price": 0.33,
+    "TDH Rate": 11.26,
+    "Price per TDH": 0.008880994671,
+    "Supply": 350,
+    "SZN": 3,
+    "PPTDH": 0.02930728241563055
+  },
+  {
+    "Identifier": 118,
+    "Name": "The Socially Umpired Animals",
+    "Floor Price": 1.69,
+    "TDH Rate": 10.8,
+    "Price per TDH": 0.1527777778,
+    "Supply": 365,
+    "SZN": 3,
+    "PPTDH": 0.15648148148148147
+  },
+  {
+    "Identifier": 119,
+    "Name": "Equilibrium",
+    "Floor Price": 0.04,
+    "TDH Rate": 7.1,
+    "Price per TDH": 0.005633802817,
+    "Supply": 555,
+    "SZN": 4,
+    "PPTDH": 0.005633802816901409
+  },
+  {
+    "Identifier": 120,
+    "Name": "SEIZAR",
+    "Floor Price": 0.13,
+    "TDH Rate": 10.8,
+    "Price per TDH": 0.01388888889,
+    "Supply": 365,
+    "SZN": 4,
+    "PPTDH": 0.012037037037037037
+  },
+  {
+    "Identifier": 121,
+    "Name": "Freedom to Create",
+    "Floor Price": 0.06,
+    "TDH Rate": 9.88,
+    "Price per TDH": 0.007085020243,
+    "Supply": 399,
+    "SZN": 4,
+    "PPTDH": 0.006072874493927125
+  },
+  {
+    "Identifier": 122,
+    "Name": "HOPIUM CRISIS",
+    "Floor Price": 0.05,
+    "TDH Rate": 8.88,
+    "Price per TDH": 0.005630630631,
+    "Supply": 444,
+    "SZN": 4,
+    "PPTDH": 0.00563063063063063
+  },
+  {
+    "Identifier": 123,
+    "Name": "I Pledge Allegiance to the Coint",
+    "Floor Price": 0.054,
+    "TDH Rate": 10.68,
+    "Price per TDH": 0.007490636704,
+    "Supply": 369,
+    "SZN": 4,
+    "PPTDH": 0.0050561797752808986
+  },
+  {
+    "Identifier": 124,
+    "Name": "Seizing Academy",
+    "Floor Price": 0.055,
+    "TDH Rate": 10.68,
+    "Price per TDH": 0.006554307116,
+    "Supply": 369,
+    "SZN": 4,
+    "PPTDH": 0.0051498127340823974
+  },
+  {
+    "Identifier": 125,
+    "Name": "Build What Feels Good",
+    "Floor Price": 0.144,
+    "TDH Rate": 11.26,
+    "Price per TDH": 0.01243339254,
+    "Supply": 350,
+    "SZN": 4,
+    "PPTDH": 0.012788632326820603
+  },
+  {
+    "Identifier": 126,
+    "Name": "Buidl Open Metaverse",
+    "Floor Price": 0.111,
+    "TDH Rate": 9.85,
+    "Price per TDH": 0.008121827411,
+    "Supply": 400,
+    "SZN": 4,
+    "PPTDH": 0.011269035532994924
+  },
+  {
+    "Identifier": 127,
+    "Name": "The Web3 Survival Show",
+    "Floor Price": 0.065,
+    "TDH Rate": 10.95,
+    "Price per TDH": 0.006392694064,
+    "Supply": 360,
+    "SZN": 4,
+    "PPTDH": 0.005936073059360731
+  },
+  {
+    "Identifier": 128,
+    "Name": "Clod 33 - Do You Know Your Digital Rights?",
+    "Floor Price": 0.065,
+    "TDH Rate": 10.68,
+    "Price per TDH": 0.008426966292,
+    "Supply": 369,
+    "SZN": 4,
+    "PPTDH": 0.006086142322097378
+  },
+  {
+    "Identifier": 129,
+    "Name": "Cobra Effect Pepe",
+    "Floor Price": 0.109,
+    "TDH Rate": 10.68,
+    "Price per TDH": 0.015917603,
+    "Supply": 369,
+    "SZN": 4,
+    "PPTDH": 0.010205992509363297
+  },
+  {
+    "Identifier": 130,
+    "Name": "Plug n Play",
+    "Floor Price": 0.073,
+    "TDH Rate": 10.68,
+    "Price per TDH": 0.005617977528,
+    "Supply": 369,
+    "SZN": 4,
+    "PPTDH": 0.006835205992509363
+  },
+  {
+    "Identifier": 131,
+    "Name": "Max Pain Survival Stage",
+    "Floor Price": 0.064,
+    "TDH Rate": 10.68,
+    "Price per TDH": 0.005617977528,
+    "Supply": 369,
+    "SZN": 4,
+    "PPTDH": 0.00599250936329588
+  },
+  {
+    "Identifier": 132,
+    "Name": "ALL THE TIME IN HELL",
+    "Floor Price": 0.054,
+    "TDH Rate": 9.88,
+    "Price per TDH": 0.005060728745,
+    "Supply": 399,
+    "SZN": 4,
+    "PPTDH": 0.005465587044534413
+  },
+  {
+    "Identifier": 133,
+    "Name": "(gm+gn)^3",
+    "Floor Price": 0.147,
+    "TDH Rate": 10.68,
+    "Price per TDH": 0.01966292135,
+    "Supply": 369,
+    "SZN": 4,
+    "PPTDH": 0.013764044943820225
+  },
+  {
+    "Identifier": 134,
+    "Name": "Virtual Visions of Freedom",
+    "Floor Price": 0.065,
+    "TDH Rate": 10.68,
+    "Price per TDH": 0.008426966292,
+    "Supply": 369,
+    "SZN": 4,
+    "PPTDH": 0.006086142322097378
+  },
+  {
+    "Identifier": 135,
+    "Name": "Summer Garden",
+    "Floor Price": 0.064,
+    "TDH Rate": 10.68,
+    "Price per TDH": 0.008426966292,
+    "Supply": 369,
+    "SZN": 4,
+    "PPTDH": 0.00599250936329588
+  },
+  {
+    "Identifier": 136,
+    "Name": "Abduction of Satoshi, 2023",
+    "Floor Price": 0.062,
+    "TDH Rate": 8.88,
+    "Price per TDH": 0.007882882883,
+    "Supply": 444,
+    "SZN": 4,
+    "PPTDH": 0.006981981981981981
+  },
+  {
+    "Identifier": 137,
+    "Name": "Wen Moon",
+    "Floor Price": 0.08,
+    "TDH Rate": 10.95,
+    "Price per TDH": 0.006392694064,
+    "Supply": 360,
+    "SZN": 4,
+    "PPTDH": 0.007305936073059361
+  },
+  {
+    "Identifier": 138,
+    "Name": "We Will Survive",
+    "Floor Price": 0.11,
+    "TDH Rate": 10.68,
+    "Price per TDH": 0.006554307116,
+    "Supply": 369,
+    "SZN": 4,
+    "PPTDH": 0.010299625468164795
+  },
+  {
+    "Identifier": 139,
+    "Name": "Ascendant",
+    "Floor Price": 0.078,
+    "TDH Rate": 9.88,
+    "Price per TDH": 0.005060728745,
+    "Supply": 399,
+    "SZN": 4,
+    "PPTDH": 0.007894736842105262
+  },
+  {
+    "Identifier": 140,
+    "Name": "OMboarding",
+    "Floor Price": 0.111,
+    "TDH Rate": 9.88,
+    "Price per TDH": 0.006072874494,
+    "Supply": 399,
+    "SZN": 4,
+    "PPTDH": 0.011234817813765181
+  },
+  {
+    "Identifier": 141,
+    "Name": "Block by Block",
+    "Floor Price": 0.054,
+    "TDH Rate": 10.83,
+    "Price per TDH": 0.005540166205,
+    "Supply": 364,
+    "SZN": 4,
+    "PPTDH": 0.004986149584487534
+  },
+  {
+    "Identifier": 142,
+    "Name": "OM Pool",
+    "Floor Price": 0.078,
+    "TDH Rate": 11.39,
+    "Price per TDH": 0.00790166813,
+    "Supply": 346,
+    "SZN": 4,
+    "PPTDH": 0.00684811237928007
+  },
+  {
+    "Identifier": 143,
+    "Name": "Diamond Hand",
+    "Floor Price": 0.075,
+    "TDH Rate": 11.26,
+    "Price per TDH": 0.00621669627,
+    "Supply": 350,
+    "SZN": 4,
+    "PPTDH": 0.0066607460035523975
+  },
+  {
+    "Identifier": 144,
+    "Name": "Fortress",
+    "Floor Price": 0.08,
+    "TDH Rate": 10.68,
+    "Price per TDH": 0.005617977528,
+    "Supply": 369,
+    "SZN": 4,
+    "PPTDH": 0.00749063670411985
+  },
+  {
+    "Identifier": 145,
+    "Name": "Inevitable Arrival",
+    "Floor Price": 0.089,
+    "TDH Rate": 11.59,
+    "Price per TDH": 0.006039689387,
+    "Supply": 340,
+    "SZN": 4,
+    "PPTDH": 0.007679033649698015
+  },
+  {
+    "Identifier": 146,
+    "Name": "The OMen",
+    "Floor Price": 0.101,
+    "TDH Rate": 10.68,
+    "Price per TDH": 0.00936329588,
+    "Supply": 369,
+    "SZN": 4,
+    "PPTDH": 0.009456928838951311
+  },
+  {
+    "Identifier": 147,
+    "Name": "CONTAGION",
+    "Floor Price": 0.1,
+    "TDH Rate": 11.59,
+    "Price per TDH": 0.006039689387,
+    "Supply": 340,
+    "SZN": 4,
+    "PPTDH": 0.008628127696289905
+  },
+  {
+    "Identifier": 148,
+    "Name": "Running Away WAGMI",
+    "Floor Price": 0.1,
+    "TDH Rate": 11.76,
+    "Price per TDH": 0.009353741497,
+    "Supply": 335,
+    "SZN": 4,
+    "PPTDH": 0.008503401360544218
+  },
+  {
+    "Identifier": 149,
+    "Name": "FAFO With Digital Rights",
+    "Floor Price": 0.109,
+    "TDH Rate": 11.94,
+    "Price per TDH": 0.00837520938,
+    "Supply": 330,
+    "SZN": 4,
+    "PPTDH": 0.009128978224455611
+  },
+  {
+    "Identifier": 150,
+    "Name": "MEME CITY",
+    "Floor Price": 0.096,
+    "TDH Rate": 12.13,
+    "Price per TDH": 0.005770816158,
+    "Supply": 325,
+    "SZN": 4,
+    "PPTDH": 0.007914262159934047
+  },
+  {
+    "Identifier": 151,
+    "Name": "BOOM",
+    "Floor Price": 0.369,
+    "TDH Rate": 12.32,
+    "Price per TDH": 0.02840909091,
+    "Supply": 320,
+    "SZN": 4,
+    "PPTDH": 0.0299512987012987
+  },
+  {
+    "Identifier": 152,
+    "Name": "BITCOIN BITCH",
+    "Floor Price": 0.075,
+    "TDH Rate": 10.68,
+    "Price per TDH": 0.006554307116,
+    "Supply": 369,
+    "SZN": 5,
+    "PPTDH": 0.007022471910112359
+  },
+  {
+    "Identifier": 153,
+    "Name": "Anonymous",
+    "Floor Price": 0.093,
+    "TDH Rate": 11.83,
+    "Price per TDH": 0.005071851226,
+    "Supply": 333,
+    "SZN": 5,
+    "PPTDH": 0.007861369399830937
+  },
+  {
+    "Identifier": 154,
+    "Name": "Meme Abduction",
+    "Floor Price": 0.055,
+    "TDH Rate": 11.26,
+    "Price per TDH": 0.00621669627,
+    "Supply": 350,
+    "SZN": 5,
+    "PPTDH": 0.004884547069271759
+  },
+  {
+    "Identifier": 155,
+    "Name": "Devouring the World",
+    "Floor Price": 0.063,
+    "TDH Rate": 12.13,
+    "Price per TDH": 0.006595218467,
+    "Supply": 325,
+    "SZN": 5,
+    "PPTDH": 0.005193734542456719
+  },
+  {
+    "Identifier": 156,
+    "Name": "MEMOVEMENT",
+    "Floor Price": 0.075,
+    "TDH Rate": 12.13,
+    "Price per TDH": 0.006595218467,
+    "Supply": 325,
+    "SZN": 5,
+    "PPTDH": 0.006183017312448474
+  },
+  {
+    "Identifier": 157,
+    "Name": "Pepeace",
+    "Floor Price": 0.195,
+    "TDH Rate": 9.88,
+    "Price per TDH": 0.01923076923,
+    "Supply": 399,
+    "SZN": 5,
+    "PPTDH": 0.019736842105263157
+  },
+  {
+    "Identifier": 158,
+    "Name": "Dreams of an Open Metaverse",
+    "Floor Price": 0.158,
+    "TDH Rate": 11.94,
+    "Price per TDH": 0.009212730318,
+    "Supply": 330,
+    "SZN": 5,
+    "PPTDH": 0.01323283082077052
+  },
+  {
+    "Identifier": 159,
+    "Name": "Nightmare Gothic",
+    "Floor Price": 0.12,
+    "TDH Rate": 11.83,
+    "Price per TDH": 0.01521555368,
+    "Supply": 333,
+    "SZN": 5,
+    "PPTDH": 0.01014370245139476
+  },
+  {
+    "Identifier": 160,
+    "Name": "One Step at a Time",
+    "Floor Price": 0.073,
+    "TDH Rate": 12.02,
+    "Price per TDH": 0.006655574043,
+    "Supply": 328,
+    "SZN": 5,
+    "PPTDH": 0.0060732113144758735
+  },
+  {
+    "Identifier": 161,
+    "Name": "Ode to the Buidlers",
+    "Floor Price": 0.074,
+    "TDH Rate": 11.83,
+    "Price per TDH": 0.01437024514,
+    "Supply": 333,
+    "SZN": 5,
+    "PPTDH": 0.006255283178360101
+  },
+  {
+    "Identifier": 162,
+    "Name": "tOMorrowland",
+    "Floor Price": 0.099,
+    "TDH Rate": 11.83,
+    "Price per TDH": 0.01098901099,
+    "Supply": 333,
+    "SZN": 5,
+    "PPTDH": 0.008368554522400677
+  },
+  {
+    "Identifier": 163,
+    "Name": "Never Ending Summer",
+    "Floor Price": 0.075,
+    "TDH Rate": 11.83,
+    "Price per TDH": 0.006762468301,
+    "Supply": 333,
+    "SZN": 5,
+    "PPTDH": 0.006339814032121724
+  },
+  {
+    "Identifier": 164,
+    "Name": "Liquidity Pool",
+    "Floor Price": 0.166,
+    "TDH Rate": 11.83,
+    "Price per TDH": 0.009298393914,
+    "Supply": 333,
+    "SZN": 5,
+    "PPTDH": 0.014032121724429417
+  },
+  {
+    "Identifier": 165,
+    "Name": "Echoes of Fortitude",
+    "Floor Price": 0.047,
+    "TDH Rate": 11.83,
+    "Price per TDH": 0.006762468301,
+    "Supply": 333,
+    "SZN": 5,
+    "PPTDH": 0.00397295012679628
+  },
+  {
+    "Identifier": 166,
+    "Name": "Irresistible, savoury, delicious..",
+    "Floor Price": 0.073,
+    "TDH Rate": 11.83,
+    "Price per TDH": 0.006762468301,
+    "Supply": 333,
+    "SZN": 5,
+    "PPTDH": 0.006170752324598478
+  },
+  {
+    "Identifier": 167,
+    "Name": "all things fail",
+    "Floor Price": 0.137,
+    "TDH Rate": 11.83,
+    "Price per TDH": 0.0135249366,
+    "Supply": 333,
+    "SZN": 5,
+    "PPTDH": 0.01158072696534235
+  },
+  {
+    "Identifier": 168,
+    "Name": "By Any Memes Necessary",
+    "Floor Price": 0.062,
+    "TDH Rate": 11.83,
+    "Price per TDH": 0.005917159763,
+    "Supply": 333,
+    "SZN": 5,
+    "PPTDH": 0.005240912933220625
+  },
+  {
+    "Identifier": 169,
+    "Name": "Concrete Dreams",
+    "Floor Price": 0.1,
+    "TDH Rate": 11.83,
+    "Price per TDH": 0.006762468301,
+    "Supply": 333,
+    "SZN": 5,
+    "PPTDH": 0.0084530853761623
+  },
+  {
+    "Identifier": 170,
+    "Name": "Move to Survive",
+    "Floor Price": 0.078,
+    "TDH Rate": 11.83,
+    "Price per TDH": 0.005917159763,
+    "Supply": 333,
+    "SZN": 5,
+    "PPTDH": 0.006593406593406593
+  },
+  {
+    "Identifier": 171,
+    "Name": "Salute",
+    "Floor Price": 0.1,
+    "TDH Rate": 12.39,
+    "Price per TDH": 0.007263922518,
+    "Supply": 318,
+    "SZN": 5,
+    "PPTDH": 0.008071025020177562
+  },
+  {
+    "Identifier": 172,
+    "Name": "Resurrection of Sam",
+    "Floor Price": 0.087,
+    "TDH Rate": 10.37,
+    "Price per TDH": 0.01253616201,
+    "Supply": 380,
+    "SZN": 5,
+    "PPTDH": 0.008389585342333654
+  },
+  {
+    "Identifier": 173,
+    "Name": "Save the Future",
+    "Floor Price": 0.062,
+    "TDH Rate": 11.83,
+    "Price per TDH": 0.005071851226,
+    "Supply": 333,
+    "SZN": 5,
+    "PPTDH": 0.005240912933220625
+  },
+  {
+    "Identifier": 174,
+    "Name": "Bearmarket",
+    "Floor Price": 0.082,
+    "TDH Rate": 11.83,
+    "Price per TDH": 0.009298393914,
+    "Supply": 333,
+    "SZN": 5,
+    "PPTDH": 0.0069315300084530854
+  },
+  {
+    "Identifier": 175,
+    "Name": "Transactional",
+    "Floor Price": 0.079,
+    "TDH Rate": 11.52,
+    "Price per TDH": 0.01388888889,
+    "Supply": 342,
+    "SZN": 5,
+    "PPTDH": 0.006857638888888889
+  },
+  {
+    "Identifier": 176,
+    "Name": "ParthenOM",
+    "Floor Price": 0.06,
+    "TDH Rate": 12.13,
+    "Price per TDH": 0.00494641385,
+    "Supply": 325,
+    "SZN": 5,
+    "PPTDH": 0.00494641384995878
+  },
+  {
+    "Identifier": 177,
+    "Name": "STOP GM",
+    "Floor Price": 0.085,
+    "TDH Rate": 11.83,
+    "Price per TDH": 0.01014370245,
+    "Supply": 333,
+    "SZN": 5,
+    "PPTDH": 0.007185122569737955
+  },
+  {
+    "Identifier": 178,
+    "Name": "ContemplatiOM",
+    "Floor Price": 0.09,
+    "TDH Rate": 12.02,
+    "Price per TDH": 0.005823627288,
+    "Supply": 328,
+    "SZN": 5,
+    "PPTDH": 0.0074875207986688855
+  },
+  {
+    "Identifier": 179,
+    "Name": "Not Yours",
+    "Floor Price": 0.065,
+    "TDH Rate": 12.32,
+    "Price per TDH": 0.005681818182,
+    "Supply": 320,
+    "SZN": 5,
+    "PPTDH": 0.005275974025974026
+  },
+  {
+    "Identifier": 180,
+    "Name": "Allegory of a Cycle",
+    "Floor Price": 0.12,
+    "TDH Rate": 12.51,
+    "Price per TDH": 0.008792965627,
+    "Supply": 315,
+    "SZN": 5,
+    "PPTDH": 0.009592326139088728
+  },
+  {
+    "Identifier": 181,
+    "Name": "FREEDOM TO BURN",
+    "Floor Price": 0.109,
+    "TDH Rate": 10.68,
+    "Price per TDH": 0.01123595506,
+    "Supply": 369,
+    "SZN": 6,
+    "PPTDH": 0.010205992509363297
+  },
+  {
+    "Identifier": 182,
+    "Name": "Protocol Keeper",
+    "Floor Price": 0.065,
+    "TDH Rate": 11.83,
+    "Price per TDH": 0.007607776839,
+    "Supply": 333,
+    "SZN": 6,
+    "PPTDH": 0.005494505494505495
+  },
+  {
+    "Identifier": 183,
+    "Name": "TAP me if you can",
+    "Floor Price": 0.09,
+    "TDH Rate": 11.98,
+    "Price per TDH": 0.02754590985,
+    "Supply": 329,
+    "SZN": 6,
+    "PPTDH": 0.007512520868113522
+  },
+  {
+    "Identifier": 184,
+    "Name": "Trojan Horse",
+    "Floor Price": 0.099,
+    "TDH Rate": 11.98,
+    "Price per TDH": 0.005843071786,
+    "Supply": 329,
+    "SZN": 6,
+    "PPTDH": 0.008263772954924874
+  },
+  {
+    "Identifier": 185,
+    "Name": "TX",
+    "Floor Price": 0.072,
+    "TDH Rate": 11.98,
+    "Price per TDH": 0.006677796327,
+    "Supply": 329,
+    "SZN": 6,
+    "PPTDH": 0.006010016694490817
+  },
+  {
+    "Identifier": 186,
+    "Name": "Freedom to Undress",
+    "Floor Price": 0.109,
+    "TDH Rate": 11.83,
+    "Price per TDH": 0.009298393914,
+    "Supply": 333,
+    "SZN": 6,
+    "PPTDH": 0.009213863060016906
+  },
+  {
+    "Identifier": 187,
+    "Name": "Meme Enjoyoor",
+    "Floor Price": 2.2,
+    "TDH Rate": 11.98,
+    "Price per TDH": 0.1085141903,
+    "Supply": 329,
+    "SZN": 6,
+    "PPTDH": 0.18363939899833057
+  },
+  {
+    "Identifier": 188,
+    "Name": "Miroir",
+    "Floor Price": 0.085,
+    "TDH Rate": 11.98,
+    "Price per TDH": 0.005843071786,
+    "Supply": 329,
+    "SZN": 6,
+    "PPTDH": 0.0070951585976627716
+  },
+  {
+    "Identifier": 189,
+    "Name": "Ego Destroyer",
+    "Floor Price": 0.077,
+    "TDH Rate": 12.51,
+    "Price per TDH": 0.006394884093,
+    "Supply": 315,
+    "SZN": 6,
+    "PPTDH": 0.006155075939248601
+  },
+  {
+    "Identifier": 190,
+    "Name": "girlfwifhat",
+    "Floor Price": 0.074,
+    "TDH Rate": 11.98,
+    "Price per TDH": 0.00918196995,
+    "Supply": 329,
+    "SZN": 6,
+    "PPTDH": 0.006176961602671118
+  },
+  {
+    "Identifier": 191,
+    "Name": "Cult of the Memes",
+    "Floor Price": 0.07,
+    "TDH Rate": 12.2,
+    "Price per TDH": 0.00737704918,
+    "Supply": 323,
+    "SZN": 6,
+    "PPTDH": 0.0057377049180327875
+  },
+  {
+    "Identifier": 192,
+    "Name": "ALL YOUR BITCOIN",
+    "Floor Price": 0.421,
+    "TDH Rate": 11.83,
+    "Price per TDH": 0.0338123415,
+    "Supply": 333,
+    "SZN": 6,
+    "PPTDH": 0.03558748943364328
+  },
+  {
+    "Identifier": 193,
+    "Name": "In the Name of the Memes",
+    "Floor Price": 0.115,
+    "TDH Rate": 11.98,
+    "Price per TDH": 0.007512520868,
+    "Supply": 329,
+    "SZN": 6,
+    "PPTDH": 0.009599332220367279
+  },
+  {
+    "Identifier": 194,
+    "Name": "WAGMI 3.0",
+    "Floor Price": 0.075,
+    "TDH Rate": 12.24,
+    "Price per TDH": 0.01062091503,
+    "Supply": 322,
+    "SZN": 6,
+    "PPTDH": 0.006127450980392157
+  },
+  {
+    "Identifier": 195,
+    "Name": "Turn It Off",
+    "Floor Price": 0.105,
+    "TDH Rate": 12.2,
+    "Price per TDH": 0.009016393443,
+    "Supply": 323,
+    "SZN": 6,
+    "PPTDH": 0.00860655737704918
+  },
+  {
+    "Identifier": 196,
+    "Name": "Hunted",
+    "Floor Price": 0.1,
+    "TDH Rate": 12.32,
+    "Price per TDH": 0.008928571429,
+    "Supply": 320,
+    "SZN": 6,
+    "PPTDH": 0.008116883116883118
+  },
+  {
+    "Identifier": 197,
+    "Name": "End the Struggle",
+    "Floor Price": 0.075,
+    "TDH Rate": 11.98,
+    "Price per TDH": 0.00918196995,
+    "Supply": 329,
+    "SZN": 6,
+    "PPTDH": 0.006260434056761268
+  },
+  {
+    "Identifier": 198,
+    "Name": "Free Transaction Square",
+    "Floor Price": 0.09,
+    "TDH Rate": 11.98,
+    "Price per TDH": 0.01252086811,
+    "Supply": 329,
+    "SZN": 6,
+    "PPTDH": 0.007512520868113522
+  },
+  {
+    "Identifier": 199,
+    "Name": "Minting Factory",
+    "Floor Price": 0.075,
+    "TDH Rate": 11.98,
+    "Price per TDH": 0.01252086811,
+    "Supply": 329,
+    "SZN": 6,
+    "PPTDH": 0.006260434056761268
+  },
+  {
+    "Identifier": 200,
+    "Name": "the digital possibility of scarcity in the mind of a semi-fungible frog",
+    "Floor Price": 0.113,
+    "TDH Rate": 11.98,
+    "Price per TDH": 0.01252086811,
+    "Supply": 329,
+    "SZN": 6,
+    "PPTDH": 0.009432387312186978
+  },
+  {
+    "Identifier": 201,
+    "Name": "Bot Chase",
+    "Floor Price": 0.072,
+    "TDH Rate": 11.98,
+    "Price per TDH": 0.01252086811,
+    "Supply": 329,
+    "SZN": 6,
+    "PPTDH": 0.006010016694490817
+  },
+  {
+    "Identifier": 202,
+    "Name": "Bullish Hollow",
+    "Floor Price": 0.1,
+    "TDH Rate": 11.98,
+    "Price per TDH": 0.01252086811,
+    "Supply": 329,
+    "SZN": 6,
+    "PPTDH": 0.008347245409015025
+  },
+  {
+    "Identifier": 203,
+    "Name": "Geo Nakamoto",
+    "Floor Price": 0.096,
+    "TDH Rate": 11.98,
+    "Price per TDH": 0.01252086811,
+    "Supply": 329,
+    "SZN": 6,
+    "PPTDH": 0.008013355592654424
+  },
+  {
+    "Identifier": 204,
+    "Name": "The Illusion",
+    "Floor Price": 0.088,
+    "TDH Rate": 12.39,
+    "Price per TDH": 0.01252086811,
+    "Supply": 318,
+    "SZN": 6,
+    "PPTDH": 0.007102502017756254
+  },
+  {
+    "Identifier": 205,
+    "Name": "Allegory of a Meme",
+    "Floor Price": 0.092,
+    "TDH Rate": 12.63,
+    "Price per TDH": 0.01252086811,
+    "Supply": 312,
+    "SZN": 6,
+    "PPTDH": 0.007284243863816309
+  },
+  {
+    "Identifier": 206,
+    "Name": "Reminiscent",
+    "Floor Price": 0.113,
+    "TDH Rate": 12.75,
+    "Price per TDH": 0.01252086811,
+    "Supply": 309,
+    "SZN": 6,
+    "PPTDH": 0.008862745098039216
+  },
+  {
+    "Identifier": 207,
+    "Name": "BUIDL the Memes of Peproduction",
+    "Floor Price": 0.075,
+    "TDH Rate": 12.55,
+    "Price per TDH": 0.01252086811,
+    "Supply": 314,
+    "SZN": 6,
+    "PPTDH": 0.0059760956175298795
+  },
+  {
+    "Identifier": 208,
+    "Name": "The Transaction War",
+    "Floor Price": 0.092,
+    "TDH Rate": 12.59,
+    "Price per TDH": 0.01252086811,
+    "Supply": 313,
+    "SZN": 6,
+    "PPTDH": 0.007307386814932486
+  },
+  {
+    "Identifier": 209,
+    "Name": "Defender",
+    "Floor Price": 0.155,
+    "TDH Rate": 12.71,
+    "Price per TDH": 0.01252086811,
+    "Supply": 310,
+    "SZN": 6,
+    "PPTDH": 0.012195121951219511
+  },
+  {
+    "Identifier": 210,
+    "Name": "The Rise of Web3 Metropolis",
+    "Floor Price": 0.085,
+    "TDH Rate": 12.51,
+    "Price per TDH": 0.01252086811,
+    "Supply": 315,
+    "SZN": 6,
+    "PPTDH": 0.006794564348521184
+  },
+  {
+    "Identifier": 211,
+    "Name": "Seas The Memes",
+    "Floor Price": 0.092,
+    "TDH Rate": 12.71,
+    "Price per TDH": 0.01252086811,
+    "Supply": 310,
+    "SZN": 6,
+    "PPTDH": 0.007238394964594806
+  },
+  {
+    "Identifier": 212,
+    "Name": "Carpe GM",
+    "Floor Price": 0.158,
+    "TDH Rate": 12.92,
+    "Price per TDH": 0.01252086811,
+    "Supply": 305,
+    "SZN": 6,
+    "PPTDH": 0.012229102167182662
+  },
+  {
+    "Identifier": 213,
+    "Name": "BUIDL(ING) PATIENCE",
+    "Floor Price": 0.147,
+    "TDH Rate": 11.98,
+    "Price per TDH": 0.01252086811,
+    "Supply": 329,
+    "SZN": 7,
+    "PPTDH": 0.012270450751252085
+  },
+  {
+    "Identifier": 214,
+    "Name": "BUIDL TO THE FUTURE",
+    "Floor Price": 0.062,
+    "TDH Rate": 11.98,
+    "Price per TDH": 0.01252086811,
+    "Supply": 329,
+    "SZN": 7,
+    "PPTDH": 0.0051752921535893155
+  },
+  {
+    "Identifier": 215,
+    "Name": "BUIDLing on Worthless St.",
+    "Floor Price": 0.075,
+    "TDH Rate": 12.75,
+    "Price per TDH": 0.01252086811,
+    "Supply": 309,
+    "SZN": 7,
+    "PPTDH": 0.0058823529411764705
+  },
+  {
+    "Identifier": 216,
+    "Name": "Summer Game",
+    "Floor Price": 0.077,
+    "TDH Rate": 12.63,
+    "Price per TDH": 0.01252086811,
+    "Supply": 312,
+    "SZN": 7,
+    "PPTDH": 0.006096595407759303
+  },
+  {
+    "Identifier": 217,
+    "Name": "Can't Stop, Won't Stop",
+    "Floor Price": 0.154,
+    "TDH Rate": 12.71,
+    "Price per TDH": 0.01252086811,
+    "Supply": 310,
+    "SZN": 7,
+    "PPTDH": 0.012116443745082611
+  },
+  {
+    "Identifier": 218,
+    "Name": "Venus's Love for Transactions",
+    "Floor Price": 0.225,
+    "TDH Rate": 11.98,
+    "Price per TDH": 0.01252086811,
+    "Supply": 329,
+    "SZN": 7,
+    "PPTDH": 0.018781302170283808
+  },
+  {
+    "Identifier": 219,
+    "Name": "Space War Inscription",
+    "Floor Price": 0.083,
+    "TDH Rate": 12.71,
+    "Price per TDH": 0.01252086811,
+    "Supply": 310,
+    "SZN": 7,
+    "PPTDH": 0.006530291109362706
+  },
+  {
+    "Identifier": 220,
+    "Name": "Salt Lake Metaverse",
+    "Floor Price": 0.077,
+    "TDH Rate": 12.71,
+    "Price per TDH": 0.01252086811,
+    "Supply": 310,
+    "SZN": 7,
+    "PPTDH": 0.006058221872541306
+  },
+  {
+    "Identifier": 221,
+    "Name": "Rugs & Rockets",
+    "Floor Price": 0.12,
+    "TDH Rate": 11.98,
+    "Price per TDH": 0.01252086811,
+    "Supply": 329,
+    "SZN": 7,
+    "PPTDH": 0.01001669449081803
+  },
+  {
+    "Identifier": 222,
+    "Name": "Pepocalypse",
+    "Floor Price": 0.069,
+    "TDH Rate": 12.71,
+    "Price per TDH": 0.00786782061369,
+    "Supply": 310,
+    "SZN": 7,
+    "PPTDH": 0.005428796223446106
+  },
+  {
+    "Identifier": 223,
+    "Name": "Pyramid",
+    "Floor Price": 0.057,
+    "TDH Rate": 12.71,
+    "Price per TDH": 0.008347245409015,
+    "Supply": 310,
+    "SZN": 7,
+    "PPTDH": 0.004484657749803304
+  },
+  {
+    "Identifier": 224,
+    "Name": "The Silent Protector",
+    "Floor Price": 0.072,
+    "TDH Rate": 11.98,
+    "Price per TDH": 0.008347245409015,
+    "Supply": 329,
+    "SZN": 7,
+    "PPTDH": 0.006010016694490817
+  },
+  {
+    "Identifier": 225,
+    "Name": "Cypher Muse",
+    "Floor Price": 0.082,
+    "TDH Rate": 11.98,
+    "Price per TDH": 0.008347245409015,
+    "Supply": 329,
+    "SZN": 7,
+    "PPTDH": 0.006844741235392321
+  },
+  {
+    "Identifier": 226,
+    "Name": "wen GOAT",
+    "Floor Price": 0.132,
+    "TDH Rate": 11.98,
+    "Price per TDH": 0.008347245409015,
+    "Supply": 329,
+    "SZN": 7,
+    "PPTDH": 0.011018363939899833
+  }
+]

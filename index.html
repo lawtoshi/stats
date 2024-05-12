@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Memes by 6529 Floor Prices, TDH, and Price Per TDH (PPTDH). Updated every 15 minutes.">
+
+  <!-- Open Graph meta tags for social media sharing -->
+  <meta property="og:title" content="TDH Stats - Memes by 6529">
+  <meta property="og:description" content="Memes by 6529 Floor Prices, TDH, and Price Per TDH (PPTDH). Updated every 15 minutes.">
+  <meta property="og:image" content="https://stats.lawtoshi.xyz/social-card-tdh-stats.png">
+  <meta property="og:url" content="https://stats.lawtoshi.xyz">
+  <meta property="og:type" content="website">
+
+  <!-- Twitter Card meta tags for Twitter sharing -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="TDH Stats - Memes by 6529">
+  <meta name="twitter:description" content="Memes by 6529 Floor Prices, TDH, and Price Per TDH (PPTDH). Updated every 15 minutes.">
+  <meta name="twitter:image" content="https://stats.lawtoshi.xyz/social-card-tdh-stats.png">
+
+  <link rel="icon" type="image/png" href="summerpunk.png">
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600&display=swap" rel="stylesheet">
+    <meta charset="UTF-8">
+    <title>TDH Stats</title>
+    <script src="dataLoaderAndSorter.js"></script>
+    <style>
+        p, h1 {
+          text-align: center;
+          max-width: 800px;
+        }
+        body {
+            background-color: black;
+            color: #F5F5F5; /* High contrast off-white */
+            font-family: 'Montserrat', sans-serif;
+            margin: 0;
+            padding: 20px;
+        }
+
+        table {
+            width: 100%;
+            max-width: 800px; /* Set the max width of the table */
+            border-collapse: collapse;
+            /* margin: 0 auto; /* Center the table horizontally */
+        }
+
+        th, td {
+            border: 1px solid #F5F5F5; /* High contrast off-white border */
+            padding: 8px;
+            text-align: left;
+        }
+
+        th {
+            cursor: pointer;
+            background-color: #333; /* Dark background for headers */
+        }
+
+        .svg-icon {
+          height: 25px; /* Adjust the size of the icon as needed */
+          width: 25px; /* Adjust the size of the icon as needed */
+          margin-right: 8px; /* Add some space between the icon and the text */
+          vertical-align: middle;
+        }
+
+        .circular-image {
+
+           object-fit: cover;
+           border-radius: 50%;
+           clip-path: circle(50% at 50% 50%);
+         }
+
+
+        /* Add more styling as needed */
+    </style>
+
+</head>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-QBB83KW6VV"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-QBB83KW6VV');
+</script>
+<body>
+  <h1>Memes by 6529 Floor Prices, TDH, and Price Per TDH (PPTDH)</h1>
+    <p></p>
+    <p>Floor price data updated every 15 minutes. <span id="lastUpdate"></span></p>
+    <p>Created by <img src="summerpunk.png" alt="Icon" class="svg-icon circular-image" /><a href="https://lawtoshi.xyz" class="styled-btn">Lawtoshi</a></p>
+    <table id="dataTable">
+        <thead>
+            <tr>
+                <th onclick="sortTable(0)">No.&nbsp;&#x2195;</th>
+                <th onclick="sortTable(1)">Name&nbsp;&#x2195;</th>
+                <th onclick="sortTable(2)">Supply&nbsp;&#x2195;</th>
+                <th onclick="sortTable(3)">SZN&nbsp;&#x2195;</th>
+                <th onclick="sortTable(4)">Floor Price&nbsp;&#x2195;</th>
+                <th onclick="sortTable(5)">TDH Rate&nbsp;&#x2195;</th>
+                <th onclick="sortTable(6)">PPTDH&nbsp;&#x2195;</th>
+            </tr>
+        </thead>
+        <tbody>
+            <!-- Data rows will be populated here -->
+        </tbody>
+    </table>
+
+
+</body>
+</html>
